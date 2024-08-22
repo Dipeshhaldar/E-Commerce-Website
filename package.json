@@ -1,0 +1,26 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "Build an E-Commerce Website Using Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dipeshhaldar/E-Commerce-Website.git"
+  },
+  "author": "Dipesh Haldar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dipeshhaldar/E-Commerce-Website/issues"
+  },
+  "homepage": "https://github.com/Dipeshhaldar/E-Commerce-Website#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
